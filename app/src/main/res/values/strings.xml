@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirst</string>
+    <string name="question_text">What country does this flag belong to?</string>
+
+</resources>
